@@ -1,0 +1,14 @@
+C:\NoelISS\Interview Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\NoelISS\Interview Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\NoelISS\Interview Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\NoelISS\Interview Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\NoelISS\Interview Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\NoelISS\Interview Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\NoelISS\Interview Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Pattern Program\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Pattern Program\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Pattern Program\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Pattern Program\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Pattern Program\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Pattern Program\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Pattern Program\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
